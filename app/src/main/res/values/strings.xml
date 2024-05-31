@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContentProvider-GabrielCampos</string>
+    <string name="texto_btn">Capturar Imagen</string>
+</resources>
